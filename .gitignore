@@ -1,0 +1,3 @@
+# Ignore everything except best model
+/07_dqn/models/*
+!/07_dqn/models/PongNoFrameskip-v4_19.dat
